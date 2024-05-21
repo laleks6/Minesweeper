@@ -1,7 +1,7 @@
 # Minesweeper
 
 ## Link project
-https://laleks6.github.io/Minesweeper/
+№№ https://laleks6.github.io/Minesweeper/
 
 ## Task stack
 <p align="left">
